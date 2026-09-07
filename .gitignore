@@ -1,0 +1,27 @@
+# Python缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 虚拟环境
+venv/
+env/
+
+run/
+weights/
+*.pth
+*.ckpt
+logs/
+*.log
+
+corpus.ch
+corpus.en
+
+.vscode/
+.idea/
+*.swp
+*.swo
+
+.DS_Store
+Thumbs.db
